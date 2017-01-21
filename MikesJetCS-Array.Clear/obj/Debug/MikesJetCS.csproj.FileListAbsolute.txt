@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\SharpDevelop Projects\MikesJetCS\MikesJetCS\obj\Debug\MikesJetCS.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\SharpDevelop Projects\MikesJetCS\MikesJetCS\bin\Debug\MikesJetCS.exe
+C:\Users\Mike\Documents\SharpDevelop Projects\MikesJetCS\MikesJetCS\bin\Debug\MikesJetCS.pdb
+C:\Users\Mike\Documents\SharpDevelop Projects\MikesJetCS\MikesJetCS\obj\Debug\MikesJetCS.exe
+C:\Users\Mike\Documents\SharpDevelop Projects\MikesJetCS\MikesJetCS\obj\Debug\MikesJetCS.pdb
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\MikesJetCS-Array.Clear\bin\Debug\MikesJetCS.exe
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\MikesJetCS-Array.Clear\bin\Debug\MikesJetCS.pdb
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\MikesJetCS-Array.Clear\obj\Debug\MikesJetCS.csprojResolveAssemblyReference.cache
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\MikesJetCS-Array.Clear\obj\Debug\MikesJetCS.exe
+C:\Users\Mike-321191\Documents\SharpDevelop Projects\MikesJetCS-Array.Clear\obj\Debug\MikesJetCS.pdb
